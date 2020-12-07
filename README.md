@@ -39,7 +39,7 @@ Resultados al escojer el segundo método con 1 000 000 números aleatorios y 10 
 
 Resultados al escojer el segundo método con 14 000 000 números aleatorios y 10 centroides.
 
-![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/5.PNG)
+![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/3.PNG)
 
 Resultados al escojer el segundo método con 14 000 000 números aleatorios y 50 centroides.
 
