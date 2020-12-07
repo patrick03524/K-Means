@@ -25,6 +25,10 @@ El resultado al compilar es el siguiente:
 
 ![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/1.PNG)
 
+Resultados al escojer el primer método:
+
+![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/7.PNG)
+
 Resultados al escojer el segundo método con 1000 números aleatorios y 3 centroides.
 
 ![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/5.PNG)
@@ -35,4 +39,10 @@ Resultados al escojer el segundo método con 1 000 000 números aleatorios y 10 
 
 Resultados al escojer el segundo método con 14 000 000 números aleatorios y 10 centroides.
 
-![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/3.PNG)
+![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/5.PNG)
+
+Resultados al escojer el segundo método con 14 000 000 números aleatorios y 50 centroides.
+
+![Alt text](https://github.com/patrick03524/K-Means/blob/main/img/6_14millions_50centroids.PNG)
+
+
